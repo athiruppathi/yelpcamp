@@ -1,0 +1,23 @@
+{
+  "name": "yelpcamp",
+  "version": "1.0.0",
+  "description": "yelpcamp-dev",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://athiruppathi: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@github.com/athiruppathi/yelpcamp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/athiruppathi/yelpcamp/issues"
+  },
+  "homepage": "https://github.com/athiruppathi/yelpcamp#readme",
+  "devDependencies": {
+    "eslint": "^8.26.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
